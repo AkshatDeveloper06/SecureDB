@@ -88,9 +88,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/AkshatDevelo
 
 ### Read Full Documentation At
 
-<br>
-
-- Added Soon
+[Secure DB - Kodular Community](https://community.kodular.io/t/f-os-securedb-store-data-locally-with-security/197510?u=akshat_rana)
 
 ## Authors
 
