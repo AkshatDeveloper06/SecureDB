@@ -79,7 +79,6 @@ public class SecureDB extends AndroidNonvisibleComponent {
         return Hawk.get(tag);
     }
 
-
     @SimpleFunction(description = "Retrieve the value stored under the given tag.")
     public Object GetValue(final String tag, final Object valueIfTagNotThere) {
         return Hawk.get(tag, valueIfTagNotThere);
